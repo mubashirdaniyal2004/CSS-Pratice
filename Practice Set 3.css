@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #0f1111;
+  height: 40px;
+  padding-top: 15px;
+}
+
+nav a {
+  padding-right: 200px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+button {
+  background-color: #f08804;
+}
+
+.logo {
+  color: #f08804;
+}
+
+.rectangle {
+  margin-left: 400px;
+  width: 100px;
+  height: 280px;
+  background-color: #0f1111;
+}
+
+.red {
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.green {
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+.yellow {
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: yellow;
+}
